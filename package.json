@@ -77,7 +77,7 @@
     "magento2-rest-client": "github:DivanteLtd/magento2-rest-client",
     "merge-graphql-schemas": "^1.5.2",
     "migrate": "^1.6.2",
-    "mime-types": "^2.1.18",
+    "mime-types": "2.1.35",
     "morgan": "^1.9.0",
     "nodemailer": "^4.6.8",
     "oauth-1.0a": "^1.0.1",
